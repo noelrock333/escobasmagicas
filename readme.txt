@@ -1,0 +1,1 @@
+jquery.spritely-0.1 This code has been released under the GPL by Addy Osmani at AddyOsmani.com
